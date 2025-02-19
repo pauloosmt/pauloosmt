@@ -8,7 +8,7 @@
 
   ![Python](https://img.shields.io/badge/python-%23323330?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/js-%23323330?style=for-the-badge&logo=javascript&logoColor=white)
-  ![Csharp](https://github.com/user-attachments/assets/28a095a4-024b-4c57-822e-74f7ebcf751b)
+  ![Csharp](https:///img.shields.io/badge/csharp-%23323330?style=for-the-badge&logo=csharp&logoColor=white)
 
  
   ![VSCode](https://img.shields.io/badge/VSCode-%23323330?style=for-the-badge&logo=visualstudiocode&logoColor=white)
