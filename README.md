@@ -7,7 +7,7 @@
   <div align='center'>
 
   ![Python](https://img.shields.io/badge/python-%23323330?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/js-%23323330?style=for-the-badge&logo=javascript&logoColor=white)
+  ![Java](https://img.shields.io/badge/js-%23323330?style=for-the-badge&logo=java&logoColor=white)
   ![C#](https://img.shields.io/badge/csharp-%23323330?style=for-the-badge&logo=c&logoColor=white)
 
  
