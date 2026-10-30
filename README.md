@@ -4,7 +4,7 @@
 
 Construo APIs REST com **Java e Spring Boot** e gosto de levar projetos do zero até a produção. Atualmente atuo como Desenvolvedor Back-end e Consultor de Projetos na **Emakers Jr** e estou em busca de uma vaga de estágio em desenvolvimento back-end.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-paulo--sergio--taciano-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/paulo-sergio-taciano)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-paulo--sergio--taciano-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/paulo-sergio-taciano-23b06b2a9)
 [![E-mail](https://img.shields.io/badge/E--mail-paulo.taciano%40estudante.ufla.br-EA4335?logo=gmail&logoColor=white)](mailto:paulo.taciano@estudante.ufla.br)
 
 ---
@@ -68,4 +68,4 @@ Monitoramento em tempo real de focos de incêndio em Minas Gerais.
 
 ## 📫 Contato
 
-Aberto a conversas sobre estágio, projetos e oportunidades em back-end. Me chame no [LinkedIn](https://linkedin.com/in/paulo-sergio-taciano) ou por e-mail: paulo.taciano@estudante.ufla.br
+Aberto a conversas sobre estágio, projetos e oportunidades em back-end. Me chame no [LinkedIn](https://linkedin.com/in/paulo-sergio-taciano-23b06b2a9) ou por e-mail: paulo.taciano@estudante.ufla.br
